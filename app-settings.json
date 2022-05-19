@@ -2,7 +2,7 @@
     {
         "name": "AuthURL",
         "slotSetting": false,
-        "value": "https://domain.net"
+        "value": "https://staging.domain.net"
     },
     {
         "name": "AzureStorageConnectionString",
