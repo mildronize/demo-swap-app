@@ -1,0 +1,12 @@
+[
+    {
+        "name": "AuthURL",
+        "slotSetting": true,
+        "value": "https://domain.net"
+    },
+    {
+        "name": "AzureStorageConnectionString",
+        "slotSetting": true,
+        "value": "23d2d2f374a8e8a54b1073571c44b7b9adb09f3b4a0ce445cb070c446dd9e5b93ad0e27c9dabfef1b5953a3907e48553b5d82ae47a5f60805e0f87ea9b805d02"
+    }
+]
